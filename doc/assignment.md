@@ -29,15 +29,3 @@ This assignment is exploratory, and the end result is not defined in detail. Tha
 
 It is important to show your progress regularly. Work iteratively and make sure you have something working as soon as possible (a *Minimum viable Product*). It is perfectly normal that your first solution lacks major parts of the requirements (e.g. no QA/production environment). Discuss milestones with your teacher.
 
-## Reporting and documentation
-
-For each milestone/iteration (as discussed with your teacher), write a lab report. **Write documentation **while** you are working on your assignment, **not after** the facts. Your report contains the following elements:
-
-- A clear and verifiable list of requirements that will be realised in the current iteration
-- A test plan: a list of steps to perform in order to verify that the requirements are met
-- A detailed description of the procedure/process you followed to meet these requirements. It is not necessary to repeat code that is elsewhere in this repository. However, all thought processes and considerations that are not in the code, but that have led you to go into a particular direction, should be clealy documented. This may include design documents, e.g. a picture representing the setup.
-- A test report: transcript of a test session according to your test plan that proves that the requirements are met.
-- A list of external resources you used: manuals, blog posts, books, etc.
-
-Use Github Issues and, optionally, Github Projects to keep a to-do list and visualise work in process. This is a valuable communication tool in the progress reports to your teacher.
-
